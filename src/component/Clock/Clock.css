@@ -1,0 +1,14 @@
+.clock{
+width: 95vw;
+height: 95vh;
+overflow: hidden;
+}
+.clock h1 {
+border: 2px solid burlywood;
+width: 250px;
+padding: 10px;
+margin: 40vh auto 0px auto ;
+border-radius: 12px;
+background-color: cornsilk;
+box-shadow:  rgba(0 0 0 0.35) 0px 5px 15px;
+}

@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.calculator {
+  height: auto;
+  display: flex;
+  justify-content: center;
+  padding-top: 40px;
+}
+
+.input-box {
+  width: 170px;
+}
+
+.clear-btn {
+  padding: 8px;
+  width: 160px;
+
+}
+
+.onclick-btns {
+  margin: 10px;
+}
