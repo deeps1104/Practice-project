@@ -8,13 +8,11 @@ import Form from './component/Form';
 function App() {
   return (
     <div className="App">
-      {/* <Calculator/>
-      <Form/>
+       <Calculator/> 
     <Clock/>
-    <Counter/> */}     
-       <Email/>
-
-
+    <Counter/>     
+       <Email/> 
+       <Form/>
     </div>
   );
 }

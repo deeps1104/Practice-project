@@ -73,7 +73,7 @@ const Calculator = () => {
             </ButtonGroup>
           </div>
         </div>
-        <div>
+        <div id='clearbtn'> 
           <Button className='clear-btn' variant="contained" value="clear" onClick={clear}>
             Clear
           </Button>

@@ -1,6 +1,6 @@
 import { useState } from 'react';
-const Email = () => {
 
+const Email = () => {
   const[nameData,setNameData]=useState()
   const[fullName,setFullName]=useState()
   const[jobtitle,setJobtitle]=useState()
